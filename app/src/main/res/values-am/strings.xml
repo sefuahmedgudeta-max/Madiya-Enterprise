@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ማዲያ ዳሽቦርድ</string>
+    <string name="tab_iot">ማዲያ አይኦቲ</string>
+    <string name="tab_reports">ሪፖርት</string>
+    <string name="tab_console">ማዲያ ኮንሶል</string>
+    <string name="tab_fleet">ፍሊት ኦፕስ</string>
+    <string name="tab_cipher">ሳይፈርኬይ ፕሮ</string>
+    <string name="login_title">ማዲያ ኢንተርፕራይዝ</string>
+    <string name="login_subtitle">ንፁህ እና ዘመናዊ የስራ ቦታ</string>
+    <string name="login_phone">ስልክ ቁጥር</string>
+    <string name="login_otp_send">OTP ላክ</string>
+    <string name="login_otp_code">OTP ኮድ (123456)</string>
+    <string name="login_confirm">አረጋግጥ እና ግባ</string>
+</resources>

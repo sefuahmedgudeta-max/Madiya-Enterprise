@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Madiya Dashboard</string>
+    <string name="tab_iot">Madiya IoT</string>
+    <string name="tab_reports">Gabaasa</string>
+    <string name="tab_console">Madiya Consoles</string>
+    <string name="tab_fleet">Fleet Ops</string>
+    <string name="tab_cipher">CipherKey Pro</string>
+    <string name="login_title">MADIYA ENTERPRISE</string>
+    <string name="login_subtitle">Workspace qulqulluu fi ammayyaa</string>
+    <string name="login_phone">Lakkoofsa Bilbilaa</string>
+    <string name="login_otp_send">OTP Ergi</string>
+    <string name="login_otp_code">Koodi OTP (123456)</string>
+    <string name="login_confirm">Mirkaneessi &amp; Seeni</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Madiya Dashboard",
+  "description": "An interactive, beautiful single-screen Android dashboard for Madiya fuel management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
